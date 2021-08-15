@@ -36,3 +36,6 @@ lib
 .eslintrc
 *.orig
 react/yarn.lock
+
+# Others
+.vscode
